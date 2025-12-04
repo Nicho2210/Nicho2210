@@ -22,6 +22,8 @@ I have recently graduated with a **Bachelor's Degree in Computer Science and Eng
 **Tools & Environment**
 `Git` `Docker` `Linux` `IntelliJ IDEA` `VS Code`
 
+---
+
 ### 📫 Connect with me
 
 * **Email:** [riccinicho22@gmail.com](mailto:riccinicho22@gmail.com)
