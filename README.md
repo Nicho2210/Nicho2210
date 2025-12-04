@@ -2,7 +2,7 @@
 
 ### Computer Science & Engineering Graduate
 
-I have recently graduated with a **Bachelor's Degree in Computer Science and Engineering** from the **University of Bologna**, achieving a final grade of **100/110**.
+I have recently graduated with a **Bachelor's Degree in Computer Science and Engineering** from the **University of Bologna**.
 
 🚀 **Current Status:** I am currently **open to work** and actively looking for entry-level opportunities as a **Junior Software Engineer** or **Backend Developer**.
 
